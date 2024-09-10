@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "image": "/middle_logo_2.jpg",
+        "rating": 4.5,
+        "title": "Grilled Chicken Salad",
+        "protein": 30,
+        "carbs": 15,
+        "fat": 8
+    },
+    {
+        "id": 2,
+        "image": "/image1.jpg",
+        "rating": 4.7,
+        "title": "Vegan Buddha Bowl",
+        "protein": 12,
+        "carbs": 40,
+        "fat": 10
+    },
+    {
+        "id": 3,
+        "image": "/image2.jpg",
+        "rating": 4.8,
+        "title": "Beef Steak with Vegetables",
+        "protein": 40,
+        "carbs": 20,
+        "fat": 15
+    },
+    {
+        "id": 4,
+        "image": "/image3.jpg",
+        "rating": 4.2,
+        "title": "Spaghetti Carbonara",
+        "protein": 25,
+        "carbs": 60,
+        "fat": 20
+    },
+    {
+        "id": 5,
+        "image": "/image4.jpg",
+        "rating": 4.6,
+        "title": "Quinoa and Black Bean Bowl",
+        "protein": 15,
+        "carbs": 35,
+        "fat": 9
+    },
+    {
+        "id": 6,
+        "image": "/image4.jpg",
+        "rating": 4.4,
+        "title": "Chicken Tacos",
+        "protein": 28,
+        "carbs": 25,
+        "fat": 12
+    },
+    {
+        "id": 7,
+        "image": "/image4.jpg",
+        "rating": 4.9,
+        "title": "Salmon with Asparagus",
+        "protein": 35,
+        "carbs": 10,
+        "fat": 20
+    },
+    {
+        "id": 8,
+        "image": "/image3.jpg",
+        "rating": 4.3,
+        "title": "Greek Salad with Feta",
+        "protein": 14,
+        "carbs": 12,
+        "fat": 7
+    },
+    {
+        "id": 9,
+        "image": "/image3.jpg",
+        "rating": 4.1,
+        "title": "Turkey Burger with Sweet Potato Fries",
+        "protein": 27,
+        "carbs": 45,
+        "fat": 18
+    },
+    {
+        "id": 10,
+        "image": "/image2.jpg",
+        "rating": 4.6,
+        "title": "Chickpea and Spinach Curry",
+        "protein": 18,
+        "carbs": 30,
+        "fat": 12
+    },
+    {
+        "id": 11,
+        "image": "/image4.jpg",
+        "rating": 4.7,
+        "title": "Stuffed Bell Peppers",
+        "protein": 22,
+        "carbs": 20,
+        "fat": 10
+    },
+    {
+        "id": 12,
+        "image": "/image1.jpg",
+        "rating": 4.8,
+        "title": "Shrimp Stir-Fry",
+        "protein": 25,
+        "carbs": 18,
+        "fat": 8
+    }
+]
