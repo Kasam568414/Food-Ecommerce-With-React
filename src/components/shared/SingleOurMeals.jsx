@@ -7,7 +7,7 @@ const SingleOurMeals = ({ meal }) => {
   return (
     <div>
       <div>
-        <div className=" bg-base-100 shadow-xl  rounded    px-2 py-3">
+        <div className=" bg-base-100 shadow-xl  rounded  px-2  py-3">
           <div>
             <div>
               <div className="">
