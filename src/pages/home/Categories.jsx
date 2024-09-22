@@ -27,8 +27,8 @@ const Categories = () => {
   ];
 
   return  <div className="max-w-7xl mx-auto px-4">
-      <h1 className="text-center lg:text-6xl font-bold mt-16 text-4xl">
-        Why Simply Good Food{" "}
+      <h1 className="text-center lg:text-6xl sm:text-4 font-bold mt-16 text-4xl">
+        Why Simply Good Food
       </h1>
  
    <div className="grid lg:grid-cols-3 grid-cols-1" >
@@ -42,7 +42,7 @@ const Categories = () => {
       </div>
      <div className="text-center ">
      <h1 className="text-4xl font-bold mt-3 mb-3">{category.name}</h1>
-      <p className="w-[350px] mx-auto text-xl font-bold ">
+      <p className="lg:w-[350px] mx-auto text-xl font-bold ">
         {category.description}
       </p>
      </div>

@@ -3,8 +3,8 @@ import React from "react";
 const MiddleBanner2 = () => {
   return (
     <div className="mt-161">
-      <h1 className="text-7xl font-bold text-center">Popular Frequently Asked Questions</h1>
-      <p className="w-1/2 mx-auto mt-4 text-xl ">
+      <h1 className="lg:text-7xl text-3xl font-bold text-center">Popular Frequently Asked Questions</h1>
+      <p className="lg:w-1/2 md:p-4 lg:mx-auto mt-4 text-xl ">
         Simply Good Food prepares and delivers organically sourced, fresh meals
         to your door nationwide. Unlike other meal kit delivery services that
         need preparation and cleaning, our meals are delivered ready to consume.

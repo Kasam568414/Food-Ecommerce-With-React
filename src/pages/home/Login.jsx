@@ -39,9 +39,9 @@ const Login = () => {
   return (
 
 <section>
-<div className="flex min-h-screen ">
+<div className="flex  ">
  
-      <div className="w-1/2">
+      <div className="w-1/2 ">
         <img
           src={image}
           alt="Placeholder"

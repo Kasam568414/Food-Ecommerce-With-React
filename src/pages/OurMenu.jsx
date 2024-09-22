@@ -64,7 +64,7 @@ const OurMenu = () => {
         <div className="divider divider-start"></div>
       </div>
 
-      <section className="max-w-7xl mx-auto mt-16 grid grid-cols-4 gap-8">
+      <section className="max-w-7xl mx-auto mt-16 grid lg:grid-cols-4 grid-cols-1 gap-8">
         {
             meals.map(meal => <SingleOurMeals key={meal.id} meal={meal}></SingleOurMeals>)
         }

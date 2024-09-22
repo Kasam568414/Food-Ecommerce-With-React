@@ -11,12 +11,12 @@ const Card = () => {
       <div className="">
        
         <div>
-          <h1 className="text-center mt-16 text-7xl font-bold mb-9">
+          <h1 className="text-center mt-16 text-5xl  font-bold mb-9">
             New & Trending menu
           </h1>
         </div>
 
-        <section className=' grid grid-cols-4 mt-20 gap-10'>
+        <section className=' grid lg:grid-cols-4 sm:grid-cols-1 mt-20 gap-10'>
           { blogs.map((blog) => (
             <SingleCard key={blog.id} blog={blog}></SingleCard>
           )) }
